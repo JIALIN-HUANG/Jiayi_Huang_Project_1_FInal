@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
+
+body { 
+    text-align: center; 
+} 
+
+.img { 
+    position: absolute;
+width: 177px;
+height: 181px;
+left: 639px;
+top: 260px;
+
+}
+
+.Rectangle1{
+position: absolute;
+width: 99vw;
+height: 97.2vh;
+
+background: #FFF4E2;
+border: 10px solid #010101;
+box-sizing: border-box;
+}
+
+.Love{
+    position: absolute;
+width: 439px;
+height: 188px;
+left: 650px;
+top: 302px;
+
+font-family: Anton;
+font-style: normal;
+font-weight: normal;
+font-size: 64px;
+line-height: 94px;
+text-align: center;
+
+color: #000000;
+}
+
+.one{
+    position: absolute;
+width: 648px;
+height: 632px;
+left: 536px;
+top: 1204px;
+}
+
+.intro{
+    position: absolute;
+width: 307px;
+height: 272px;
+left: 707px;
+top: 1518px;
+
+font-family: 'Playfair Display', serif;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 30px;
+
+color: #000000;
+
+}
+
+.video{
+    width: 307px;
+    height: 272px;
+    left: 380px;
+    top: 2018px;
+    position: absolute;
+}
+
+.Rectangle2{
+    position: absolute;
+width: 1390px;
+height: 198px;
+left: 26px;
+top: 17px;
+
+background: #FFF4E2;
+}
